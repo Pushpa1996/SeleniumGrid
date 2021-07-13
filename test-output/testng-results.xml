@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-13T17:45:24 IST" name="selenium grid" finished-at="2021-07-13T17:45:36 IST" duration-ms="12281">
+    <groups>
+    </groups>
+    <test started-at="2021-07-13T17:45:24 IST" name="chrometest1" finished-at="2021-07-13T17:45:36 IST" duration-ms="11825">
+      <class name="ChromeTest.firefox">
+        <test-method is-config="true" signature="launchapp(java.lang.String)[pri:0, instance:ChromeTest.firefox@5f9b2141]" started-at="2021-07-13T17:45:24 IST" name="launchapp" finished-at="2021-07-13T17:45:35 IST" duration-ms="11548" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="calculatepercent()[pri:0, instance:ChromeTest.firefox@5f9b2141]" started-at="2021-07-13T17:45:35 IST" name="calculatepercent" finished-at="2021-07-13T17:45:35 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatepercent -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ChromeTest.firefox@5f9b2141]" started-at="2021-07-13T17:45:35 IST" name="closeBrowser" finished-at="2021-07-13T17:45:36 IST" duration-ms="253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ChromeTest.firefox -->
+    </test> <!-- chrometest1 -->
+    <test started-at="2021-07-13T17:45:24 IST" name="chrometest2" finished-at="2021-07-13T17:45:36 IST" duration-ms="12191">
+      <class name="ChromeTest.firefox">
+        <test-method is-config="true" signature="launchapp(java.lang.String)[pri:0, instance:ChromeTest.firefox@156b88f5]" started-at="2021-07-13T17:45:24 IST" name="launchapp" finished-at="2021-07-13T17:45:35 IST" duration-ms="10915" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="calculatepercent()[pri:0, instance:ChromeTest.firefox@156b88f5]" started-at="2021-07-13T17:45:35 IST" name="calculatepercent" finished-at="2021-07-13T17:45:35 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatepercent -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ChromeTest.firefox@156b88f5]" started-at="2021-07-13T17:45:35 IST" name="closeBrowser" finished-at="2021-07-13T17:45:36 IST" duration-ms="1221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ChromeTest.firefox -->
+    </test> <!-- chrometest2 -->
+    <test started-at="2021-07-13T17:45:24 IST" name="chrometest3" finished-at="2021-07-13T17:45:36 IST" duration-ms="12231">
+      <class name="ChromeTest.firefox">
+        <test-method is-config="true" signature="launchapp(java.lang.String)[pri:0, instance:ChromeTest.firefox@4d465b11]" started-at="2021-07-13T17:45:24 IST" name="launchapp" finished-at="2021-07-13T17:45:33 IST" duration-ms="9636" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="calculatepercent()[pri:0, instance:ChromeTest.firefox@4d465b11]" started-at="2021-07-13T17:45:33 IST" name="calculatepercent" finished-at="2021-07-13T17:45:33 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatepercent -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ChromeTest.firefox@4d465b11]" started-at="2021-07-13T17:45:34 IST" name="closeBrowser" finished-at="2021-07-13T17:45:36 IST" duration-ms="2407" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ChromeTest.firefox -->
+    </test> <!-- chrometest3 -->
+    <test started-at="2021-07-13T17:45:24 IST" name="chrometest4" finished-at="2021-07-13T17:45:36 IST" duration-ms="12281">
+      <class name="ChromeTest.firefox">
+        <test-method is-config="true" signature="launchapp(java.lang.String)[pri:0, instance:ChromeTest.firefox@7133da86]" started-at="2021-07-13T17:45:24 IST" name="launchapp" finished-at="2021-07-13T17:45:35 IST" duration-ms="11194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ie]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="calculatepercent()[pri:0, instance:ChromeTest.firefox@7133da86]" started-at="2021-07-13T17:45:35 IST" name="calculatepercent" finished-at="2021-07-13T17:45:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calculatepercent -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:ChromeTest.firefox@7133da86]" started-at="2021-07-13T17:45:35 IST" name="closeBrowser" finished-at="2021-07-13T17:45:36 IST" duration-ms="1065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- ChromeTest.firefox -->
+    </test> <!-- chrometest4 -->
+  </suite> <!-- selenium grid -->
+</testng-results>
